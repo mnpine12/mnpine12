@@ -1,8 +1,9 @@
 <!-- 헤더 꾸미기 -->
-
+<div align='center'>
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Sora's%20GitHub&fontSize=55&animation=fadeIn)
 
-<div align='center'>
+
 <!-- 기술 스택 아이콘 -->
 <h4 align='center'>⚡Tech Stack⚡</h4>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
@@ -27,6 +28,7 @@
 <a href="mailto:mnpine12@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mnpine12@gmail.com"/></a>
 </p>
 <!-- 내 경력기술서 리포지터리 표출 -->
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mnpine12&repo=vanilla-todolist)](https://github.com/mnpine12/vanilla-todolist)
 </div>
 
