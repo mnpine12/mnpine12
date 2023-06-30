@@ -1,16 +1,34 @@
-### Hi there 👋
+<!-- 헤더 꾸미기 -->
 
-<!--
-**mnpine12/mnpine12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Sora's%20GitHub&fontSize=55&animation=fadeIn)
 
-Here are some ideas to get you started:
+<div align='center'>
+<!-- 기술 스택 아이콘 -->
+<h4 align='center'>⚡Tech Stack⚡</h4>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 사용 툴 아이콘 -->
+<h4 align='center'>🤔Platform&Tool💬</h4>
+<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
+<img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=SourceTree&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
+<br />
+
+<!-- 컨택트 아이콘 -->
+<h4 align='center'>✨Follow Me✨</h4>
+<p align='center'>
+<a href="https://github.com/mnpine12"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://velog.io/@mnpine12"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white" /></a>
+<a href="mailto:mnpine12@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mnpine12@gmail.com"/></a>
+</p>
+<!-- 내 경력기술서 리포지터리 표출 -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mnpine12&repo=vanilla-todolist)](https://github.com/mnpine12/vanilla-todolist)
+</div>
+
+<!-- 푸터 꾸미기 -->
+<!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer) -->
