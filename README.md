@@ -5,7 +5,7 @@
 
 
 <!-- 기술 스택 아이콘 -->
-<h4 align='center'>⚡Tech Stack⚡</h4>
+<h3 align='center'>⚡Tech Stack⚡</h3>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -13,7 +13,7 @@
 <br />
 
 <!-- 사용 툴 아이콘 -->
-<h4 align='center'>🤔Platform&Tool💬</h4>
+<h3 align='center'>🤔Platform&Tool💬</h3>
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 <img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=SourceTree&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
@@ -21,7 +21,7 @@
 <br />
 
 <!-- 컨택트 아이콘 -->
-<h4 align='center'>✨Follow Me✨</h4>
+<h3 align='center'>✨Follow Me✨</h3>
 <p align='center'>
 <a href="https://github.com/mnpine12"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://velog.io/@mnpine12"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white" /></a>
